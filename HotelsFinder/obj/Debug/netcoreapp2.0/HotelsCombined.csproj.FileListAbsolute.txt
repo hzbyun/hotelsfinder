@@ -1,0 +1,33 @@
+C:\Users\James\Downloads\asp.net\temp\WebCodingTest v4\WebCodingTest\HotelsCombined\bin\Debug\netcoreapp2.0\HotelsCombined.deps.json
+C:\Users\James\Downloads\asp.net\temp\WebCodingTest v4\WebCodingTest\HotelsCombined\bin\Debug\netcoreapp2.0\HotelsCombined.runtimeconfig.json
+C:\Users\James\Downloads\asp.net\temp\WebCodingTest v4\WebCodingTest\HotelsCombined\bin\Debug\netcoreapp2.0\HotelsCombined.runtimeconfig.dev.json
+C:\Users\James\Downloads\asp.net\temp\WebCodingTest v4\WebCodingTest\HotelsCombined\bin\Debug\netcoreapp2.0\HotelsCombined.dll
+C:\Users\James\Downloads\asp.net\temp\WebCodingTest v4\WebCodingTest\HotelsCombined\bin\Debug\netcoreapp2.0\HotelsCombined.pdb
+C:\Users\James\Downloads\asp.net\temp\WebCodingTest v4\WebCodingTest\HotelsCombined\obj\Debug\netcoreapp2.0\HotelsCombined.csproj.CoreCompileInputs.cache
+C:\Users\James\Downloads\asp.net\temp\WebCodingTest v4\WebCodingTest\HotelsCombined\obj\Debug\netcoreapp2.0\HotelsCombined.AssemblyInfoInputs.cache
+C:\Users\James\Downloads\asp.net\temp\WebCodingTest v4\WebCodingTest\HotelsCombined\obj\Debug\netcoreapp2.0\HotelsCombined.AssemblyInfo.cs
+C:\Users\James\Downloads\asp.net\temp\WebCodingTest v4\WebCodingTest\HotelsCombined\obj\Debug\netcoreapp2.0\HotelsCombined.dll
+C:\Users\James\Downloads\asp.net\temp\WebCodingTest v4\WebCodingTest\HotelsCombined\obj\Debug\netcoreapp2.0\HotelsCombined.pdb
+C:\Users\James\Downloads\asp.net\temp\WebCodingTest v4\WebCodingTest\HotelsCombined\obj\Debug\netcoreapp2.0\HotelsCombined.csprojAssemblyReference.cache
+C:\Users\James\Desktop\codingPrac\WebCodingTest-JamesByun\HotelsCombined\bin\Debug\netcoreapp2.0\HotelsCombined.deps.json
+C:\Users\James\Desktop\codingPrac\WebCodingTest-JamesByun\HotelsCombined\bin\Debug\netcoreapp2.0\HotelsCombined.runtimeconfig.json
+C:\Users\James\Desktop\codingPrac\WebCodingTest-JamesByun\HotelsCombined\bin\Debug\netcoreapp2.0\HotelsCombined.runtimeconfig.dev.json
+C:\Users\James\Desktop\codingPrac\WebCodingTest-JamesByun\HotelsCombined\bin\Debug\netcoreapp2.0\HotelsCombined.dll
+C:\Users\James\Desktop\codingPrac\WebCodingTest-JamesByun\HotelsCombined\bin\Debug\netcoreapp2.0\HotelsCombined.pdb
+C:\Users\James\Desktop\codingPrac\WebCodingTest-JamesByun\HotelsCombined\obj\Debug\netcoreapp2.0\HotelsCombined.csprojAssemblyReference.cache
+C:\Users\James\Desktop\codingPrac\WebCodingTest-JamesByun\HotelsCombined\obj\Debug\netcoreapp2.0\HotelsCombined.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\codingPrac\WebCodingTest-JamesByun\HotelsCombined\obj\Debug\netcoreapp2.0\HotelsCombined.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\codingPrac\WebCodingTest-JamesByun\HotelsCombined\obj\Debug\netcoreapp2.0\HotelsCombined.AssemblyInfo.cs
+C:\Users\James\Desktop\codingPrac\WebCodingTest-JamesByun\HotelsCombined\obj\Debug\netcoreapp2.0\HotelsCombined.dll
+C:\Users\James\Desktop\codingPrac\WebCodingTest-JamesByun\HotelsCombined\obj\Debug\netcoreapp2.0\HotelsCombined.pdb
+C:\Users\Administrator\Desktop\WebCodingTest-JamesByun\WebCodingTest-JamesByun\HotelsCombined\bin\Debug\netcoreapp2.0\HotelsCombined.deps.json
+C:\Users\Administrator\Desktop\WebCodingTest-JamesByun\WebCodingTest-JamesByun\HotelsCombined\bin\Debug\netcoreapp2.0\HotelsCombined.runtimeconfig.json
+C:\Users\Administrator\Desktop\WebCodingTest-JamesByun\WebCodingTest-JamesByun\HotelsCombined\bin\Debug\netcoreapp2.0\HotelsCombined.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\WebCodingTest-JamesByun\WebCodingTest-JamesByun\HotelsCombined\bin\Debug\netcoreapp2.0\HotelsCombined.dll
+C:\Users\Administrator\Desktop\WebCodingTest-JamesByun\WebCodingTest-JamesByun\HotelsCombined\bin\Debug\netcoreapp2.0\HotelsCombined.pdb
+C:\Users\Administrator\Desktop\WebCodingTest-JamesByun\WebCodingTest-JamesByun\HotelsCombined\obj\Debug\netcoreapp2.0\HotelsCombined.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\WebCodingTest-JamesByun\WebCodingTest-JamesByun\HotelsCombined\obj\Debug\netcoreapp2.0\HotelsCombined.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WebCodingTest-JamesByun\WebCodingTest-JamesByun\HotelsCombined\obj\Debug\netcoreapp2.0\HotelsCombined.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WebCodingTest-JamesByun\WebCodingTest-JamesByun\HotelsCombined\obj\Debug\netcoreapp2.0\HotelsCombined.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WebCodingTest-JamesByun\WebCodingTest-JamesByun\HotelsCombined\obj\Debug\netcoreapp2.0\HotelsCombined.dll
+C:\Users\Administrator\Desktop\WebCodingTest-JamesByun\WebCodingTest-JamesByun\HotelsCombined\obj\Debug\netcoreapp2.0\HotelsCombined.pdb
